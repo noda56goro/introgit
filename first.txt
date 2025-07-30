@@ -1,3 +1,4 @@
 gitのはじめ
 コマンドの学習
 status
+git diff
